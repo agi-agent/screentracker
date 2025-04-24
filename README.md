@@ -38,7 +38,6 @@ This app **CANNOT** access or compromise cryptocurrency wallets because:
 ## 🔍 Security Measures
 
 - **Public Code Review**: All code is on GitHub for security researchers to inspect
-- **OS Sandboxing**: Uses standard app sandboxing on all platforms
 - **Least-Privilege Design**: Requests minimal system access
 
 ## 🧪 Why This Matters
