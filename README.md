@@ -14,7 +14,7 @@ This screen-tracking application is built with security and user privacy as core
 
 ### Collected:
 - Screenshots of your visible screen only
-- Mouse and keyboard actions
+- Mouse and keyboard actions and their timestamps
 - Anonymous session UUID
 
 ### Never Collected:
@@ -54,7 +54,6 @@ All trained models will be released under open licenses.
 
 - **Opt-In**: The app does nothing until you press Start
 - **Pause/Stop Anytime**: One click to immediately cease recording
-- **Delete Your Data**: You can delete the data anytime before hitting the upload button
 
 ## 🔗 Precedents & Track Record
 
